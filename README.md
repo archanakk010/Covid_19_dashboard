@@ -1,5 +1,5 @@
 # COVID-19 DASHBOARD
-This Power BI project analyzes COVID-19 data across four pages: World, Country Latest, Month Overview, and USA Report. Each page offers insights into cases and related aspects, enabling users to understand the pandemic's impact comprehensively.
+This Power BI project analyzes COVID-19 data across four pages: World, Country_Latest, Month_Overview and USA Report. Each page offers insights into cases and related aspects, enabling users to understand the pandemic's impact comprehensively.
 
 ### Steps in Creating the COVID-19 Dashboard:
 #### 1. Importing COVID-19 Dataset:
