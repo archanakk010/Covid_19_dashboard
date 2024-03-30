@@ -129,7 +129,8 @@ This area chart visualizes the daily analysis of new COVID-19 cases, recoveries,
 This page provides an overall view of USA Report.
 
 
-![Screenshot (715)](https://github.com/archanakk010/covid_19_test/assets/132830280/bee82947-a35b-4173-b17b-052a2c061dd8)
+![Screenshot (715)](https://github.com/archanakk010/Covid_19_dashboard/assets/132830280/d6c40c32-4131-40a0-a0f8-5147fa50cd8b)
+
 
 #### ✅ Cards
 
