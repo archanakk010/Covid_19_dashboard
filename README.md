@@ -98,8 +98,7 @@ This map visualizes COVID-19 deaths by country/region, with the size of each bub
 This page provides an overall view of Month_overview.
 
 
-![Screenshot (714)](https://github.com/archanakk010/covid_19_test/assets/132830280/cd2442a8-c10e-4c44-be6a-29309740f7cc)
-
+![Screenshot (714)](https://github.com/archanakk010/Covid_19_dashboard/assets/132830280/a2b8176c-6de5-4010-b686-85e29da39bbc)
 
 
 #### ✅ Cards
