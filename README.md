@@ -23,7 +23,7 @@ Develop the interactive dashboard with multiple pages, each focusing on differen
 This page provides an overall view of world.
 
 
-![Screenshot (716)](https://github.com/archanakk010/covid_19_test/assets/132830280/807e7c92-e8c6-4deb-8129-dc85a9197303)
+![Screenshot (716)](https://github.com/archanakk010/Covid_19_dashboard/assets/132830280/d4a22197-324c-4b03-8bb3-67e59ae200b0)
 
 
 #### ✅ Slicer
