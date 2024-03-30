@@ -59,7 +59,7 @@ This map visually illustrates the spread of COVID-19 cases across continents, wi
 This page provides an overall view of Country_Latest.
 
 
-![Screenshot (713)](https://github.com/archanakk010/covid_19_test/assets/132830280/74a586dc-726e-4082-abd6-7ef20e9820a3)
+![Screenshot (713)](https://github.com/archanakk010/Covid_19_dashboard/assets/132830280/8203246a-1f46-438c-a31e-4890e1fa4266)
 
 
 #### ✅ Cards
